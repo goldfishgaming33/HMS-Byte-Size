@@ -11,7 +11,7 @@ Finalising my PCB design to accomodate the Pi Zero 2W, nRF module and other part
 I've had to learn about capacitors and where to use them to improve the longevity and reliability of my RC boat. 
 
 Experimented with ground planes and I think I've figured that out to avoid ground loops
-![PCB View](/img/pcb.pdf.png)
+![PCB View](/img/pcb.png)
 
 _Almost finished PCB_
 
