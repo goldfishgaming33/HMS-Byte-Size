@@ -31,5 +31,11 @@ Time spend: 5 hours
 ## Wednesday 18th June
 Added a readme and BOM together in one file. I reviewed a couple of other projects on the highway to see why people are being rejected, and hopefully I'm going to avoid that!
 
-Time spent: 6 hours
+Asked a friend for some advice and made amends to my PCB, namely adding a resistor for me LED, and populating 3D models. Also, I had to basically re-do the PCB design because one of the footprints I was using was wrong...
+![PCB View](/img/pcb1806.png)
+_Pretty sure it's finished now_
+![3dview](/img/3dview1806.png)
+_Populated 3D model_
+
+Time spent: 8 hours
 
