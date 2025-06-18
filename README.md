@@ -7,7 +7,7 @@
 - The system will operate on the Raspberry Pi Zero 2W, communicating over 2.4GHz RF with a secondary Pi which will control the boat remotely
 - I wasn't too confident with SMD and lacking a hot plate or any SMD capability, I decided to go with all through hole components
 
-![3Dview](/img/3Dview1806.png)
+![3Dview](/img/3dview1806.png)
 _LED will power to confirm the board is running_
 
 ![schem](/img/schematic.png)
