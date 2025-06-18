@@ -1,4 +1,4 @@
-#ABOUT
+# ABOUT
 
 - I decided to take on this project when I realised I had nothing better to do over the summer
 - I wanted to make use of skills I learnt while building a different device for a school competition which was a satellite in the size of a can
@@ -11,7 +11,18 @@
 _LED will power to confirm the board is running_
 
 ![schem](/img/schematic.png)
-_Careful planning of how to power such project took place and resulted in numerous de-coupling capacitors, and others to manage current spikes and back-EMF_
+_Careful planning of how to power such project took place and resulted in numerous de-coupling capacitors, and others to manage current spikes and back-EMI_
 
 ![pcb](/img/pcb.png)
 _2-layer PCB composed of all through hole components, will full layer ground pours, and via stitching_
+
+## Costs
+It's looking rather costly
+
+I've tried to stick to amazon and ali express for cheap components, but obviously I have doubts about reliability and whatnot.
+
+Also, I have some amazon vouchers to spend that's why a lot is on amazon
+
+If I secure funding through Hackclub, depending on how much, I might be able to upgrade to more reliable sellers.
+
+## BOM

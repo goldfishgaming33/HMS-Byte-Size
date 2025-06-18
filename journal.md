@@ -4,14 +4,14 @@ author: "Alexander Golder"
 description: "A RC boat inspired by a school competition, built on the Raspberry Pi platform"
 created_at: 2025-06-07
 ---
+- Time spent is cumulative 
 
 ## Saturday 7th June
 Parts list finalised and BOM updated.
 
 Total cost far exceeds what I was hoping. Let's hope it works
 
-
-
+Time spent: 2 hours
 
 
 ## Tuesday 17th June
@@ -25,3 +25,11 @@ Experimented with ground planes and I think I've figured that out to avoid groun
 _Almost finished PCB_
 
 Now I need to begin CAD to build accommodation for all the components.
+
+Time spend: 5 hours
+
+## Wednesday 18th June
+Added a readme and BOM together in one file. I reviewed a couple of other projects on the highway to see why people are being rejected, and hopefully I'm going to avoid that!
+
+Time spent: 6 hours
+
