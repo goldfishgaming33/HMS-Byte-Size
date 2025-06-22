@@ -39,3 +39,6 @@ _Populated 3D model_
 
 Time spent: 8 hours
 
+## Saturday 21st and Sunday 22nd June
+Basically taught myself CAD. Designs on the way.
+
