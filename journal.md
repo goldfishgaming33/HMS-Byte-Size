@@ -42,3 +42,9 @@ Time spent: 8 hours
 ## Saturday 21st and Sunday 22nd June
 Basically taught myself CAD. Designs on the way.
 
+## Monday 23rd June
+My CAD model is beginning to take shape.
+![3dmodel](/img/3dmodel1.png)
+
+Time spent 9.5 hours
+
