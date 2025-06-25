@@ -56,4 +56,4 @@ Time spent 10.5 hours
 
 ## Wednesday 25th June
 Finished up the CAD model with the parts. Ready for submission!
-![3dmodel](/img/3dmodel3.png)
+![3dmodel](/img/3dmodel4.png)

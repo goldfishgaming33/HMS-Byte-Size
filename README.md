@@ -16,7 +16,7 @@ _Careful planning of how to power such project took place and resulted in numero
 ![pcb](/img/pcb1806.png)
 _2-layer PCB composed of all through hole components, will full layer ground pours, and via stitching_
 
-![3dmodel](/img/3dmodel3.png)
+![3dmodel](/img/3dmodel4.png)
 _Compact 3D printed design for easy assembly_
 
 ## Costs
