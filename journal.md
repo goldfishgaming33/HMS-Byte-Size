@@ -48,3 +48,12 @@ My CAD model is beginning to take shape.
 
 Time spent 9.5 hours
 
+## Tuesday 24th June
+developed the CAD model further. I need to figure out how to add mounts inside the hull for the components, and how to create a lid to seal it all in.
+![3dmodel](/img/3dmodel2.png)
+
+Time spent 10.5 hours
+
+## Wednesday 25th June
+Finished up the CAD model with the parts. Ready for submission!
+![3dmodel](/img/3dmodel3.png)
